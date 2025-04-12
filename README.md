@@ -63,8 +63,11 @@
 
 ###
 
-<p align="left">I am a game production student, indie game developer, open source enthusiast and eventual contributor<br>I am a game developer mainly, using either the Unreal or Unity game engines and other non game engine frameworks. I do intend to begin documenting my personal development and begin uploading dev-logs to youtube.<br>Life<br>[De Montfort University](https://www.dmu.ac.uk/study/courses/undergraduate-courses/games-production-bsc/games-production-bsc-degree.aspx) : BSc (Hons) Games Production</p>
+<p align="left">I am a game production student, indie game developer, open source enthusiast and eventual contributor<br>
+Using either the Unreal or Unity game engines and other non game engine frameworks. I do intend to begin documenting my personal development and begin uploading dev-logs to youtube.
+</p>
 
+[De Montfort University](https://www.dmu.ac.uk/study/courses/undergraduate-courses/games-production-bsc/games-production-bsc-degree.aspx) : BSc (Hons) Games production
 ###
 
 <picture>
