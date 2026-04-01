@@ -1,11 +1,9 @@
 # Mohamed Deeq Mohamed
 
-**Graphics Programmer · Incoming PhD Researcher in Neural Rendering**
+**Game Developer/Graphics Programmer · Incoming PhD Researcher in Neural Rendering**
 De Montfort University, Leicester
 
 ---
-
-I build real-time rendering systems from scratch in Vulkan and C++.
 
 My final year project is a **Vulkan 1.3 renderer** built entirely around Dynamic Rendering,
 explicit GPU synchronisation via `synchronization2`, and VMA-managed memory.
