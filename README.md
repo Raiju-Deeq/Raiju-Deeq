@@ -27,6 +27,16 @@ Real-time Vulkan 1.3 renderer in C++20 with PBR shading and a Gaussian Splatting
 
 </td>
 </tr>
+<tr>
+<td>
+
+### [Raylib Gaussian Splat Demo](https://github.com/Raiju-Deeq/Raylib-Gaussian-Splat-Demo)
+Educational 50k-splat Gaussian renderer in raylib/C++ — screen-aligned quads with a true Gaussian falloff shader, back-to-front alpha sorting, and a volumetric Stanford Bunny scene. Companion piece to the FYP exploring splat rendering concepts before the Vulkan implementation.
+
+`C++` `raylib` `GLSL` `OpenGL`
+
+</td>
+</tr>
 </table>
 
 ---
